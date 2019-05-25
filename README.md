@@ -5,7 +5,7 @@ How to use
 npm i
 ```
 
-|   |   |
+| Command  | Description |
 |---|---|
 |-r | Number of rows to generate |
 |-m | Highest number to randomly generate |
